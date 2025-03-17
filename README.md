@@ -27,6 +27,5 @@ I am an experienced Software Development Engineer in Test (SDET) with 4+ years o
 - [Email](mailto:daniiarcbkqa@gmail.com)
 
 ## Public Contributions:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=transparent&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DaniiarAlaev&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
